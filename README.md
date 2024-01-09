@@ -92,4 +92,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### Access Token ###
-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
+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
