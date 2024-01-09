@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.pages {
+  color: #000000;
+  text-align: center;
+  font-size: 50px;
+  font-family:"Helvetica";
+  margin-top: 10%;
+}
+
+@media screen and (max-width: 960px) {
+  .pages{
+    font-size:25px;
+    text-align: center;
+    margin-top: 10%;
+  }
+}

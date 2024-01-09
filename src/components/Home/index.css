@@ -1,0 +1,10 @@
+.main-heading{
+    font-size:130px;
+}
+
+@media screen and (max-width: 960px){
+    .main-heading{
+        font-size:40px;
+        margin-top:30px;
+    }
+}
